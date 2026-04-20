@@ -1,5 +1,3 @@
-### About Me
-
 **👋 Hi, I am Chinonye Anams**                        
 A data scientist with a background in biochemistry and molecular biology, applying data-driven approaches to public health and biological systems.                  
 My work focuses on using data to uncover patterns, inform decisions, and contribute to solutions in health and social impact contexts.
